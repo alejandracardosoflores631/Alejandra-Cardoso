@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background: pink;
+    height: 90px;
+    width: 100%;
+    position: fixed;
+}
+div{
+    padding-top: 100px;
+}
+p{
+    font-size: 25px;
+    line-height: 2;
+}
+footer{
+    background: green;
+    height: 90px;
+    color: azure;
+    text-align: center;
+}
+.imagen{
+    width: 1000px;
+    position: fixed;
+    top: 400px;
+    left: 300px;
+    opacity: 0.3;
+}
